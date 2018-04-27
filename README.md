@@ -6,3 +6,15 @@ This project is a game. In this game the computer randomly picks a letter, and t
 
 ## Why the project is useful
 The project was helpful to get some practice using javascript functions, conditions(if/else), forloops, and so many other subjects.
+## built with
+-javascript
+-HTML
+-CSS
+
+## Author
+ Sara Khosravi
+## License
+This project is licensed under the MIT license.
+
+## Acknowledgement
+Berkely Bootcamp
