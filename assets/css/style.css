@@ -1,0 +1,13 @@
+body{
+    background: url(../images/background.jpeg) fixed no-repeat center;
+    background-size: cover;   
+}
+#card{
+    background: rgb(111, 240, 240);
+    text-align: center;
+    color: black;
+    opacity:0.8;
+}
+.title{
+    text-align: center;
+}
